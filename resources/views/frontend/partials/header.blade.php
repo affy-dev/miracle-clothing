@@ -345,7 +345,7 @@
                                 </li>
                                 -->
                                 <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#"
-                                        data-toggle="dropdown">Shop</a>
+                                        data-toggle="dropdown">Products</a>
                                     <ul class="dropdown-menu">
                                         <li> <a href="shop-grid-left-sidebar.html">Protective
                                                 Fashion Mask</a>
