@@ -188,6 +188,158 @@
     </div>
   </div>
 </section>
+
+<section class="bg-light mt-n11 custom-pt-1">
+  <div class="container text-center">
+    <div class="row justify-content-center text-center mb-5">
+      <div class="col-12 col-md-10 col-lg-8">
+        <div>
+          <!-- <h6 class="text-primary mb-1">
+                  — Testimonial
+              </h6> -->
+          <h2 class="mb-0">Manufacturing Unit</h2>
+        </div>
+      </div>
+    </div>
+    <div class="row justify-content-center">
+      <div class="col-12">
+        <div class="owl-carousel owl-center owl-2 owl-loaded owl-drag" data-center="true" data-dots="false" data-nav="true" data-items="3" data-md-items="2" data-sm-items="1">
+        <div class="owl-stage-outer"><div class="owl-stage" style="transition: all 0s ease 0s; width: 3800px; transform: translate3d(-760px, 0px, 0px);"><div class="owl-item cloned" style="width: 380px;"><div class="item">
+            <div class="card p-5 p-lg-8 bg-primary-soft border-0">
+              <div>
+                <img alt="Image" src="{{asset('frontend/images/thumbnail/02.jpg')}}" class="shadow-primary img-fluid rounded-circle d-inline">
+              </div>
+              <div class="card-body p-0 mt-5">
+                <p class="text-muted">Ekocart Amazing E-commerce Template, clean code, Crative &amp; Modern design.</p>
+                <div>
+                  <h5 class="text-primary d-inline mb-0">Scott Jones</h5>
+                  <small class="text-muted font-italic">- Supervisor</small>
+                </div>
+              </div>
+            </div>
+          </div></div><div class="owl-item cloned" style="width: 380px;"><div class="item">
+            <div class="card p-5 p-lg-8 bg-primary-soft border-0">
+              <div>
+                <img alt="Image" src="{{asset('frontend/images/thumbnail/03.jpg')}}" class="shadow-primary img-fluid rounded-circle d-inline">
+              </div>
+              <div class="card-body p-0 mt-5">
+                <p class="text-muted">Ekocart Amazing E-commerce Template, clean code, Crative &amp; Modern design.</p>
+                <div>
+                  <h5 class="text-primary d-inline mb-0">Amber Holmes</h5>
+                  <small class="text-muted font-italic">- Manager</small>
+                </div>
+              </div>
+            </div>
+          </div></div><div class="owl-item cloned active" style="width: 380px;"><div class="item">
+            <div class="card p-5 p-lg-8 bg-primary-soft border-0">
+              <div>
+                <img alt="Image" src="{{asset('frontend/images/thumbnail/02.jpg')}}" class="shadow-primary img-fluid rounded-circle d-inline">
+              </div>
+              <div class="card-body p-0 mt-5">
+                <p class="text-muted">Ekocart Amazing E-commerce Template, clean code, Crative &amp; Modern design.</p>
+                <div>
+                  <h5 class="text-primary d-inline mb-0">Scott Jones</h5>
+                  <small class="text-muted font-italic">- Ceo</small>
+                </div>
+              </div>
+            </div>
+          </div></div><div class="owl-item active center" style="width: 380px;"><div class="item">
+            <div class="card p-5 p-lg-8 bg-primary-soft border-0">
+              <div>
+                <img alt="Image" src="{{asset('frontend/images/thumbnail/01.jpg')}}" class="shadow-primary img-fluid rounded-circle d-inline">
+              </div>
+              <div class="card-body p-0 mt-5">
+                <p class="text-muted">Ekocart Amazing E-commerce Template, clean code, Crative &amp; Modern design.</p>
+                <div>
+                  <h5 class="text-primary d-inline mb-0">Ember Lana</h5>
+                  <small class="text-muted font-italic">- Founder</small>
+                </div>
+              </div>
+            </div>
+          </div></div><div class="owl-item active" style="width: 380px;"><div class="item">
+            <div class="card p-5 p-lg-8 bg-primary-soft border-0">
+              <div>
+                <img alt="Image" src="{{asset('frontend/images/thumbnail/02.jpg')}}" class="shadow-primary img-fluid rounded-circle d-inline">
+              </div>
+              <div class="card-body p-0 mt-5">
+                <p class="text-muted">Ekocart Amazing E-commerce Template, clean code, Crative &amp; Modern design.</p>
+                <div>
+                  <h5 class="text-primary d-inline mb-0">Scott Jones</h5>
+                  <small class="text-muted font-italic">- Supervisor</small>
+                </div>
+              </div>
+            </div>
+          </div></div><div class="owl-item" style="width: 380px;"><div class="item">
+            <div class="card p-5 p-lg-8 bg-primary-soft border-0">
+              <div>
+                <img alt="Image" src="{{asset('frontend/images/thumbnail/03.jpg')}}" class="shadow-primary img-fluid rounded-circle d-inline">
+              </div>
+              <div class="card-body p-0 mt-5">
+                <p class="text-muted">Ekocart Amazing E-commerce Template, clean code, Crative &amp; Modern design.</p>
+                <div>
+                  <h5 class="text-primary d-inline mb-0">Amber Holmes</h5>
+                  <small class="text-muted font-italic">- Manager</small>
+                </div>
+              </div>
+            </div>
+          </div></div><div class="owl-item" style="width: 380px;"><div class="item">
+            <div class="card p-5 p-lg-8 bg-primary-soft border-0">
+              <div>
+                <img alt="Image" src="{{asset('frontend/images/thumbnail/02.jpg')}}" class="shadow-primary img-fluid rounded-circle d-inline">
+              </div>
+              <div class="card-body p-0 mt-5">
+                <p class="text-muted">Ekocart Amazing E-commerce Template, clean code, Crative &amp; Modern design.</p>
+                <div>
+                  <h5 class="text-primary d-inline mb-0">Scott Jones</h5>
+                  <small class="text-muted font-italic">- Ceo</small>
+                </div>
+              </div>
+            </div>
+          </div></div><div class="owl-item cloned" style="width: 380px;"><div class="item">
+            <div class="card p-5 p-lg-8 bg-primary-soft border-0">
+              <div>
+                <img alt="Image" src="{{asset('frontend/images/thumbnail/01.jpg')}}" class="shadow-primary img-fluid rounded-circle d-inline">
+              </div>
+              <div class="card-body p-0 mt-5">
+                <p class="text-muted">Ekocart Amazing E-commerce Template, clean code, Crative &amp; Modern design.</p>
+                <div>
+                  <h5 class="text-primary d-inline mb-0">Ember Lana</h5>
+                  <small class="text-muted font-italic">- Founder</small>
+                </div>
+              </div>
+            </div>
+          </div></div><div class="owl-item cloned" style="width: 380px;"><div class="item">
+            <div class="card p-5 p-lg-8 bg-primary-soft border-0">
+              <div>
+                <img alt="Image" src="{{asset('frontend/images/thumbnail/02.jpg')}}" class="shadow-primary img-fluid rounded-circle d-inline">
+              </div>
+              <div class="card-body p-0 mt-5">
+                <p class="text-muted">Ekocart Amazing E-commerce Template, clean code, Crative &amp; Modern design.</p>
+                <div>
+                  <h5 class="text-primary d-inline mb-0">Scott Jones</h5>
+                  <small class="text-muted font-italic">- Supervisor</small>
+                </div>
+              </div>
+            </div>
+          </div></div><div class="owl-item cloned" style="width: 380px;"><div class="item">
+            <div class="card p-5 p-lg-8 bg-primary-soft border-0">
+              <div>
+                <img alt="Image" src="{{asset('frontend/images/thumbnail/02.jpg')}}" class="shadow-primary img-fluid rounded-circle d-inline">
+              </div>
+              <div class="card-body p-0 mt-5">
+                <p class="text-muted">Ekocart Amazing E-commerce Template, clean code, Crative &amp; Modern design.</p>
+                <div>
+                  <h5 class="text-primary d-inline mb-0">Amber Holmes</h5>
+                  <small class="text-muted font-italic">- Manager</small>
+                </div>
+              </div>
+            </div>
+          </div></div></div></div><div class="owl-nav"><button type="button" role="presentation" class="owl-prev"><span class="la la-angle-left"><span></span></span></button><button type="button" role="presentation" class="owl-next"><span class="la la-angle-right"></span></button></div><div class="owl-dots disabled"></div></div>
+      </div>
+    </div>
+  </div>
+</section>
+
 <!-- 
 <section>
     <div class="container">
