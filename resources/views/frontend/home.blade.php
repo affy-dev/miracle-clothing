@@ -16,7 +16,8 @@
                             Introduction
                         </h2>
                         <p>
-                            Miracle Clothing Pvt. Ltd. was established with a vision to contribute to the evolving world of
+                            Miracle Clothing Pvt. Ltd. was established with a vision to contribute to the evolving world
+                            of
                             fashion clothing. The company was started by a young and dynamic professionals eager to put
                             their creative ideas & skills to concrete form. This is result of sheer hard work and
                             determination that the company has succeeded in creating its own niche in highly fashion and
@@ -46,298 +47,460 @@
 </section>
 
 <section style="padding: 0rem 0;">
-  <div class="container">
-    <div class="row align-items-center">
-      <div class="col-lg-5 mr-auto">
-        <div class="shadow p-5">
-          <div>
-            
-            <h2 class="mb-0">What do we manufacture!</h2>
-          </div>
-          
-          
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-lg-5 mr-auto">
+                <div class="shadow p-5">
+                    <div>
+
+                        <h2 class="mb-0">What do we manufacture!</h2>
+                    </div>
+
+
+                </div>
+            </div>
+            <div class="col-lg-6 mt-5 mt-lg-0">
+                <div class="owl-carousel no-pb owl-2 owl-loaded owl-drag" data-dots="false" data-nav="true"
+                    data-items="2" data-md-items="2" data-sm-items="1">
+
+                    <div class="owl-stage-outer">
+                        <div class="owl-stage"
+                            style="transform: translate3d(-277px, 0px, 0px); transition: all 0.25s ease 0s; width: 1943px;">
+                            <div class="owl-item cloned" style="width: 277.5px;">
+                                <div class="item">
+                                    <div class="card product-card">
+                                        <button class="btn-wishlist btn-sm" type="button" data-toggle="tooltip"
+                                            data-placement="left" title="" data-original-title="Add to wishlist"><i
+                                                class="lar la-heart"></i>
+                                        </button>
+                                        <a class="card-img-hover d-block" href="product-left-image.html">
+                                            <img class="card-img-top card-img-back"
+                                                src="{{asset('frontend/images/furniture/product/mask-2.jpg')}}"
+                                                style="height: 231px;" alt="...">
+                                            <img class="card-img-top card-img-front"
+                                                src="{{asset('frontend/images/furniture/product/mask.jpg')}}"
+                                                style="height: 231px;" alt="...">
+                                        </a>
+                                        <div class="card-info">
+                                            <div class="card-body">
+                                                <div class="product-title"><a class="link-title"
+                                                        href="product-left-image.html">Protective Fashion Mask</a>
+                                                </div>
+                                                <!-- <div class="mt-1"> <span class="product-price"><del class="text-muted">$42.00</del> $37.00</span>
+                    <div class="star-rating"><i class="las la-star"></i><i class="las la-star"></i><i class="las la-star"></i><i class="las la-star"></i><i class="las la-star"></i>
+                    </div>
+                  </div> -->
+                                            </div>
+                                            <!-- <div class="card-footer bg-transparent border-0">
+                  <div class="product-link d-flex align-items-center justify-content-center">
+                    <button class="btn btn-compare" data-toggle="tooltip" data-placement="top" title="" type="button" data-original-title="Compare"><i class="las la-random"></i> 
+                    </button>
+                    <button class="btn-cart btn btn-primary btn-animated mx-3" type="button"><i class="las la-shopping-cart mr-1"></i>
+                    </button>
+                    <button class="btn btn-view" data-toggle="tooltip" data-placement="top" title="" data-original-title="Quick View"><span data-target="#quick-view" data-toggle="modal"><i class="las la-eye"></i></span>
+                    </button>
+                  </div>
+                </div> -->
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="owl-item cloned active" style="width: 277.5px;">
+                                <div class="item">
+                                    <div class="card product-card">
+                                        <button class="btn-wishlist btn-sm" type="button" data-toggle="tooltip"
+                                            data-placement="left" title="" data-original-title="Add to wishlist"><i
+                                                class="lar la-heart"></i>
+                                        </button>
+                                        <a class="card-img-hover d-block" href="product-left-image.html">
+                                            <img class="card-img-top card-img-back"
+                                                src="{{asset('frontend/images/furniture/product/apparell-1.jpg')}}"
+                                                style="height: 231px;" alt="...">
+                                            <img class="card-img-top card-img-front"
+                                                src="{{asset('frontend/images/furniture/product/apparell-2.jpg')}}"
+                                                style="height: 231px;" alt="...">
+                                        </a>
+                                        <div class="card-info">
+                                            <div class="card-body">
+                                                <div class="product-title"><a class="link-title"
+                                                        href="product-left-image.html">Apparels</a>
+                                                </div>
+                                                <!-- <div class="mt-1"> <span class="product-price"><del class="text-muted">$18.00</del> $15.00</span>
+                    <div class="star-rating"><i class="las la-star"></i><i class="las la-star"></i><i class="las la-star"></i><i class="las la-star"></i><i class="las la-star"></i>
+                    </div>
+                  </div> -->
+                                            </div>
+                                            <!-- <div class="card-footer bg-transparent border-0">
+                  <div class="product-link d-flex align-items-center justify-content-center">
+                    <button class="btn btn-compare" data-toggle="tooltip" data-placement="top" title="" type="button" data-original-title="Compare"><i class="las la-random"></i> 
+                    </button>
+                    <button class="btn-cart btn btn-primary btn-animated mx-3" type="button"><i class="las la-shopping-cart mr-1"></i>
+                    </button>
+                    <button class="btn btn-view" data-toggle="tooltip" data-placement="top" title="" data-original-title="Quick View"><span data-target="#quick-view" data-toggle="modal"><i class="las la-eye"></i></span>
+                    </button>
+                  </div>
+                </div> -->
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="owl-item active" style="width: 277.5px;">
+                                <div class="item">
+                                    <div class="card product-card">
+                                        <button class="btn-wishlist btn-sm" type="button" data-toggle="tooltip"
+                                            data-placement="left" title="" data-original-title="Add to wishlist"><i
+                                                class="lar la-heart"></i>
+                                        </button>
+                                        <a class="card-img-hover d-block" href="product-left-image.html">
+                                            <img class="card-img-top card-img-back"
+                                                src="{{asset('frontend/images/furniture/product/ppe-kit-1.jpg')}}"
+                                                style="height: 231px;" alt="...">
+                                            <img class="card-img-top card-img-front"
+                                                src="{{asset('frontend/images/furniture/product/ppe-kit-2.jpg')}}"
+                                                style="height: 231px;" alt="...">
+                                        </a>
+                                        <div class="card-info">
+                                            <div class="card-body">
+                                                <div class="product-title"><a class="link-title"
+                                                        href="product-left-image.html">PPE Kits, Suits and Gowns</a>
+                                                </div>
+                                                <!-- <div class="mt-1"> <span class="product-price"><del class="text-muted">$35.00</del> $25.00</span>
+                    <div class="star-rating"><i class="las la-star"></i><i class="las la-star"></i><i class="las la-star"></i><i class="las la-star"></i><i class="las la-star"></i>
+                    </div>
+                  </div> -->
+                                            </div>
+                                            <!-- <div class="card-footer bg-transparent border-0">
+                  <div class="product-link d-flex align-items-center justify-content-center">
+                    <button class="btn btn-compare" data-toggle="tooltip" data-placement="top" title="" type="button" data-original-title="Compare"><i class="las la-random"></i> 
+                    </button>
+                    <button class="btn-cart btn btn-primary btn-animated mx-3" type="button"><i class="las la-shopping-cart mr-1"></i>
+                    </button>
+                    <button class="btn btn-view" data-toggle="tooltip" data-placement="top" title="" data-original-title="Quick View"><span data-target="#quick-view" data-toggle="modal"><i class="las la-eye"></i></span>
+                    </button>
+                  </div>
+                </div> -->
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                            <div class="owl-item active" style="width: 277.5px;">
+                                <div class="item">
+                                    <div class="card product-card">
+                                        <button class="btn-wishlist btn-sm" type="button" data-toggle="tooltip"
+                                            data-placement="left" title="" data-original-title="Add to wishlist"><i
+                                                class="lar la-heart"></i>
+                                        </button>
+                                        <a class="card-img-hover d-block" href="product-left-image.html">
+                                            <img class="card-img-top card-img-back"
+                                                src="{{asset('frontend/images/furniture/product/uniform-1.jpg')}}"
+                                                style="height: 231px;" alt="...">
+                                            <img class="card-img-top card-img-front"
+                                                src="{{asset('frontend/images/furniture/product/uniform-2.jpg')}}"
+                                                style="height: 231px;" alt="...">
+                                        </a>
+                                        <div class="card-info">
+                                            <div class="card-body">
+                                                <div class="product-title"><a class="link-title"
+                                                        href="product-left-image.html">Uniform</a>
+                                                </div>
+                                                <!-- <div class="mt-1"> <span class="product-price"><del class="text-muted">$35.00</del> $25.00</span>
+                    <div class="star-rating"><i class="las la-star"></i><i class="las la-star"></i><i class="las la-star"></i><i class="las la-star"></i><i class="las la-star"></i>
+                    </div>
+                  </div> -->
+                                            </div>
+                                            <!-- <div class="card-footer bg-transparent border-0">
+                  <div class="product-link d-flex align-items-center justify-content-center">
+                    <button class="btn btn-compare" data-toggle="tooltip" data-placement="top" title="" type="button" data-original-title="Compare"><i class="las la-random"></i> 
+                    </button>
+                    <button class="btn-cart btn btn-primary btn-animated mx-3" type="button"><i class="las la-shopping-cart mr-1"></i>
+                    </button>
+                    <button class="btn btn-view" data-toggle="tooltip" data-placement="top" title="" data-original-title="Quick View"><span data-target="#quick-view" data-toggle="modal"><i class="las la-eye"></i></span>
+                    </button>
+                  </div>
+                </div> -->
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="owl-nav"><button type="button" role="presentation" class="owl-prev"><span
+                                class="la la-angle-left"><span></span></span></button><button type="button"
+                            role="presentation" class="owl-next"><span class="la la-angle-right"></span></button></div>
+                    <div class="owl-dots disabled"></div>
+                </div>
+            </div>
         </div>
-      </div>
-      <div class="col-lg-6 mt-5 mt-lg-0">
-        <div class="owl-carousel no-pb owl-2 owl-loaded owl-drag" data-dots="false" data-nav="true" data-items="2" data-md-items="2" data-sm-items="1">
-          
-        <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-277px, 0px, 0px); transition: all 0.25s ease 0s; width: 1943px;"><div class="owl-item cloned" style="width: 277.5px;"><div class="item">
-            <div class="card product-card">
-              <button class="btn-wishlist btn-sm" type="button" data-toggle="tooltip" data-placement="left" title="" data-original-title="Add to wishlist"><i class="lar la-heart"></i>
-              </button>
-              <a class="card-img-hover d-block" href="product-left-image.html">
-                <img class="card-img-top card-img-back" src="{{asset('frontend/images/furniture/product/05.jpg')}}" alt="...">
-                <img class="card-img-top card-img-front" src="{{asset('frontend/images/furniture/product/06.jpg')}}" alt="...">
-              </a>
-              <div class="card-info">
-                <div class="card-body">
-                  <div class="product-title"><a class="link-title" href="product-left-image.html">Uniform</a>
-                  </div>
-                  <!-- <div class="mt-1"> <span class="product-price"><del class="text-muted">$42.00</del> $37.00</span>
-                    <div class="star-rating"><i class="las la-star"></i><i class="las la-star"></i><i class="las la-star"></i><i class="las la-star"></i><i class="las la-star"></i>
-                    </div>
-                  </div> -->
-                </div>
-                <!-- <div class="card-footer bg-transparent border-0">
-                  <div class="product-link d-flex align-items-center justify-content-center">
-                    <button class="btn btn-compare" data-toggle="tooltip" data-placement="top" title="" type="button" data-original-title="Compare"><i class="las la-random"></i> 
-                    </button>
-                    <button class="btn-cart btn btn-primary btn-animated mx-3" type="button"><i class="las la-shopping-cart mr-1"></i>
-                    </button>
-                    <button class="btn btn-view" data-toggle="tooltip" data-placement="top" title="" data-original-title="Quick View"><span data-target="#quick-view" data-toggle="modal"><i class="las la-eye"></i></span>
-                    </button>
-                  </div>
-                </div> -->
-              </div>
-            </div>
-          </div></div><div class="owl-item cloned active" style="width: 277.5px;"><div class="item">
-            <div class="card product-card">
-              <button class="btn-wishlist btn-sm" type="button" data-toggle="tooltip" data-placement="left" title="" data-original-title="Add to wishlist"><i class="lar la-heart"></i>
-              </button>
-              <a class="card-img-hover d-block" href="product-left-image.html">
-                <img class="card-img-top card-img-back" src="{{asset('frontend/images/furniture/product/13.jpg')}}" alt="...">
-                <img class="card-img-top card-img-front" src="{{asset('frontend/images/furniture/product/02.jpg')}}" alt="...">
-              </a>
-              <div class="card-info">
-                <div class="card-body">
-                  <div class="product-title"><a class="link-title" href="product-left-image.html">Apparels</a>
-                  </div>
-                  <!-- <div class="mt-1"> <span class="product-price"><del class="text-muted">$18.00</del> $15.00</span>
-                    <div class="star-rating"><i class="las la-star"></i><i class="las la-star"></i><i class="las la-star"></i><i class="las la-star"></i><i class="las la-star"></i>
-                    </div>
-                  </div> -->
-                </div>
-                <!-- <div class="card-footer bg-transparent border-0">
-                  <div class="product-link d-flex align-items-center justify-content-center">
-                    <button class="btn btn-compare" data-toggle="tooltip" data-placement="top" title="" type="button" data-original-title="Compare"><i class="las la-random"></i> 
-                    </button>
-                    <button class="btn-cart btn btn-primary btn-animated mx-3" type="button"><i class="las la-shopping-cart mr-1"></i>
-                    </button>
-                    <button class="btn btn-view" data-toggle="tooltip" data-placement="top" title="" data-original-title="Quick View"><span data-target="#quick-view" data-toggle="modal"><i class="las la-eye"></i></span>
-                    </button>
-                  </div>
-                </div> -->
-              </div>
-            </div>
-          </div></div>
-          <div class="owl-item active" style="width: 277.5px;"><div class="item">
-            <div class="card product-card">
-              <button class="btn-wishlist btn-sm" type="button" data-toggle="tooltip" data-placement="left" title="" data-original-title="Add to wishlist"><i class="lar la-heart"></i>
-              </button>
-              <a class="card-img-hover d-block" href="product-left-image.html">
-                <img class="card-img-top card-img-back" src="{{asset('frontend/images/furniture/product/14.jpg')}}" alt="...">
-                <img class="card-img-top card-img-front" src="{{asset('frontend/images/furniture/product/15.jpg')}}" alt="...">
-              </a>
-              <div class="card-info">
-                <div class="card-body">
-                  <div class="product-title"><a class="link-title" href="product-left-image.html">PPE Kits, Suits and Gowns</a>
-                  </div>
-                  <!-- <div class="mt-1"> <span class="product-price"><del class="text-muted">$35.00</del> $25.00</span>
-                    <div class="star-rating"><i class="las la-star"></i><i class="las la-star"></i><i class="las la-star"></i><i class="las la-star"></i><i class="las la-star"></i>
-                    </div>
-                  </div> -->
-                </div>
-                <!-- <div class="card-footer bg-transparent border-0">
-                  <div class="product-link d-flex align-items-center justify-content-center">
-                    <button class="btn btn-compare" data-toggle="tooltip" data-placement="top" title="" type="button" data-original-title="Compare"><i class="las la-random"></i> 
-                    </button>
-                    <button class="btn-cart btn btn-primary btn-animated mx-3" type="button"><i class="las la-shopping-cart mr-1"></i>
-                    </button>
-                    <button class="btn btn-view" data-toggle="tooltip" data-placement="top" title="" data-original-title="Quick View"><span data-target="#quick-view" data-toggle="modal"><i class="las la-eye"></i></span>
-                    </button>
-                  </div>
-                </div> -->
-              </div>
-            </div>
-          </div></div>
-
-
-          <div class="owl-item active" style="width: 277.5px;"><div class="item">
-            <div class="card product-card">
-              <button class="btn-wishlist btn-sm" type="button" data-toggle="tooltip" data-placement="left" title="" data-original-title="Add to wishlist"><i class="lar la-heart"></i>
-              </button>
-              <a class="card-img-hover d-block" href="product-left-image.html">
-                <img class="card-img-top card-img-back" src="{{asset('frontend/images/furniture/product/14.jpg')}}" alt="...">
-                <img class="card-img-top card-img-front" src="{{asset('frontend/images/furniture/product/15.jpg')}}" alt="...">
-              </a>
-              <div class="card-info">
-                <div class="card-body">
-                  <div class="product-title"><a class="link-title" href="product-left-image.html">Protective Fashion Mask</a>
-                  </div>
-                  <!-- <div class="mt-1"> <span class="product-price"><del class="text-muted">$35.00</del> $25.00</span>
-                    <div class="star-rating"><i class="las la-star"></i><i class="las la-star"></i><i class="las la-star"></i><i class="las la-star"></i><i class="las la-star"></i>
-                    </div>
-                  </div> -->
-                </div>
-                <!-- <div class="card-footer bg-transparent border-0">
-                  <div class="product-link d-flex align-items-center justify-content-center">
-                    <button class="btn btn-compare" data-toggle="tooltip" data-placement="top" title="" type="button" data-original-title="Compare"><i class="las la-random"></i> 
-                    </button>
-                    <button class="btn-cart btn btn-primary btn-animated mx-3" type="button"><i class="las la-shopping-cart mr-1"></i>
-                    </button>
-                    <button class="btn btn-view" data-toggle="tooltip" data-placement="top" title="" data-original-title="Quick View"><span data-target="#quick-view" data-toggle="modal"><i class="las la-eye"></i></span>
-                    </button>
-                  </div>
-                </div> -->
-              </div>
-            </div>
-          </div></div>
-          
-          </div></div><div class="owl-nav"><button type="button" role="presentation" class="owl-prev"><span class="la la-angle-left"><span></span></span></button><button type="button" role="presentation" class="owl-next"><span class="la la-angle-right"></span></button></div><div class="owl-dots disabled"></div></div>
-      </div>
     </div>
-  </div>
 </section>
 
 <section class="bg-light mt-n11 custom-pt-1">
-  <div class="container text-center">
-    <div class="row justify-content-center text-center mb-5">
-      <div class="col-12 col-md-10 col-lg-8">
-        <div>
-          <!-- <h6 class="text-primary mb-1">
+    <div class="container text-center">
+        <div class="row justify-content-center text-center mb-5">
+            <div class="col-12 col-md-10 col-lg-8">
+                <div>
+                    <!-- <h6 class="text-primary mb-1">
                   — Testimonial
               </h6> -->
-          <h2 class="mb-0">Manufacturing Unit</h2>
+                    <h2 class="mb-0">Manufacturing Unit</h2>
+                </div>
+            </div>
         </div>
-      </div>
-    </div>
-    <div class="row justify-content-center">
-      <div class="col-12">
-        <div class="owl-carousel owl-center owl-2 owl-loaded owl-drag" data-center="true" data-dots="false" data-nav="true" data-items="3" data-md-items="2" data-sm-items="1">
-        <div class="owl-stage-outer"><div class="owl-stage" style="transition: all 0s ease 0s; width: 3800px; transform: translate3d(-760px, 0px, 0px);"><div class="owl-item cloned" style="width: 380px;"><div class="item">
-            <div class="card p-5 p-lg-8 bg-primary-soft border-0">
-              <div>
-                <img alt="Image" src="{{asset('frontend/images/thumbnail/02.jpg')}}" class="shadow-primary img-fluid rounded-circle d-inline">
-              </div>
-              <div class="card-body p-0 mt-5">
-                <p class="text-muted">Ekocart Amazing E-commerce Template, clean code, Crative &amp; Modern design.</p>
-                <div>
+        <div class="row justify-content-center">
+            <div class="col-12">
+                <div class="owl-carousel owl-center owl-2 owl-loaded owl-drag" data-center="true" data-dots="false"
+                    data-nav="true" data-items="3" data-md-items="2" data-sm-items="1">
+                    <div class="owl-stage-outer">
+                        <div class="owl-stage"
+                            style="transition: all 0s ease 0s; width: 3800px; transform: translate3d(-760px, 0px, 0px);">
+                            <div class="owl-item cloned" style="width: 380px;">
+                                <div class="item">
+                                    <div class="card p-5 p-lg-8 bg-primary-soft border-0">
+                                        <div>
+                                            <img alt="Image"
+                                                src="{{asset('frontend/images/thumbnail/social-compliance.jpg')}}"
+                                                style="width:100px"
+                                                class="shadow-primary img-fluid rounded-circle d-inline">
+                                        </div>
+                                        <div class="card-body p-0 mt-5">
+                                            <p class="text-muted">Social Compliance</p>
+                                            <!-- <div>
                   <h5 class="text-primary d-inline mb-0">Scott Jones</h5>
                   <small class="text-muted font-italic">- Supervisor</small>
-                </div>
-              </div>
-            </div>
-          </div></div><div class="owl-item cloned" style="width: 380px;"><div class="item">
-            <div class="card p-5 p-lg-8 bg-primary-soft border-0">
-              <div>
-                <img alt="Image" src="{{asset('frontend/images/thumbnail/03.jpg')}}" class="shadow-primary img-fluid rounded-circle d-inline">
-              </div>
-              <div class="card-body p-0 mt-5">
-                <p class="text-muted">Ekocart Amazing E-commerce Template, clean code, Crative &amp; Modern design.</p>
-                <div>
+                </div> -->
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="owl-item cloned" style="width: 380px;">
+                                <div class="item">
+                                    <div class="card p-5 p-lg-8 bg-primary-soft border-0">
+                                        <div>
+                                            <img alt="Image"
+                                                src="{{asset('frontend/images/thumbnail/cutting-section.jpg')}}"
+                                                style="width:100px"
+                                                class="shadow-primary img-fluid rounded-circle d-inline">
+                                        </div>
+                                        <div class="card-body p-0 mt-5">
+                                            <p class="text-muted">Cutting Section</p>
+                                            <!-- <div>
                   <h5 class="text-primary d-inline mb-0">Amber Holmes</h5>
                   <small class="text-muted font-italic">- Manager</small>
-                </div>
-              </div>
-            </div>
-          </div></div><div class="owl-item cloned active" style="width: 380px;"><div class="item">
-            <div class="card p-5 p-lg-8 bg-primary-soft border-0">
-              <div>
-                <img alt="Image" src="{{asset('frontend/images/thumbnail/02.jpg')}}" class="shadow-primary img-fluid rounded-circle d-inline">
-              </div>
-              <div class="card-body p-0 mt-5">
-                <p class="text-muted">Ekocart Amazing E-commerce Template, clean code, Crative &amp; Modern design.</p>
-                <div>
+                </div> -->
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="owl-item cloned active" style="width: 380px;">
+                                <div class="item">
+                                    <div class="card p-5 p-lg-8 bg-primary-soft border-0">
+                                        <div>
+                                            <img alt="Image"
+                                                src="{{asset('frontend/images/thumbnail/sewing-section.jpg')}}"
+                                                style="width:150px"
+                                                class="shadow-primary img-fluid rounded-circle d-inline">
+                                        </div>
+                                        <div class="card-body p-0 mt-5">
+                                            <p class="text-muted">Sewing Sections</p>
+                                            <!-- <div>
                   <h5 class="text-primary d-inline mb-0">Scott Jones</h5>
                   <small class="text-muted font-italic">- Ceo</small>
-                </div>
-              </div>
-            </div>
-          </div></div><div class="owl-item active center" style="width: 380px;"><div class="item">
-            <div class="card p-5 p-lg-8 bg-primary-soft border-0">
-              <div>
-                <img alt="Image" src="{{asset('frontend/images/thumbnail/01.jpg')}}" class="shadow-primary img-fluid rounded-circle d-inline">
-              </div>
-              <div class="card-body p-0 mt-5">
-                <p class="text-muted">Ekocart Amazing E-commerce Template, clean code, Crative &amp; Modern design.</p>
-                <div>
+                </div> -->
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="owl-item active center" style="width: 380px;">
+                                <div class="item">
+                                    <div class="card p-5 p-lg-8 bg-primary-soft border-0">
+                                        <div>
+                                            <img alt="Image"
+                                                src="{{asset('frontend/images/thumbnail/sewing-machines.jpg')}}"
+                                                style="width:120px"
+                                                class="shadow-primary img-fluid rounded-circle d-inline">
+                                        </div>
+                                        <div class="card-body p-0 mt-5">
+                                            <p class="text-muted">Sewing Machines</p>
+                                            <!-- <div>
                   <h5 class="text-primary d-inline mb-0">Ember Lana</h5>
                   <small class="text-muted font-italic">- Founder</small>
-                </div>
-              </div>
-            </div>
-          </div></div><div class="owl-item active" style="width: 380px;"><div class="item">
-            <div class="card p-5 p-lg-8 bg-primary-soft border-0">
-              <div>
-                <img alt="Image" src="{{asset('frontend/images/thumbnail/02.jpg')}}" class="shadow-primary img-fluid rounded-circle d-inline">
-              </div>
-              <div class="card-body p-0 mt-5">
-                <p class="text-muted">Ekocart Amazing E-commerce Template, clean code, Crative &amp; Modern design.</p>
-                <div>
+                </div> -->
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="owl-item active" style="width: 380px;">
+                                <div class="item">
+                                    <div class="card p-5 p-lg-8 bg-primary-soft border-0">
+                                        <div>
+                                            <img alt="Image" src="{{asset('frontend/images/thumbnail/finishing.jpg')}}"
+                                                style="width:120px"
+                                                class="shadow-primary img-fluid rounded-circle d-inline">
+                                        </div>
+                                        <div class="card-body p-0 mt-5">
+                                            <p class="text-muted">Finishing, Quality and Product Safety</p>
+                                            <!-- <div>
                   <h5 class="text-primary d-inline mb-0">Scott Jones</h5>
                   <small class="text-muted font-italic">- Supervisor</small>
+                </div> -->
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="owl-nav"><button type="button" role="presentation" class="owl-prev"><span
+                                class="la la-angle-left"><span></span></span></button><button type="button"
+                            role="presentation" class="owl-next"><span class="la la-angle-right"></span></button></div>
+                    <div class="owl-dots disabled"></div>
                 </div>
-              </div>
             </div>
-          </div></div><div class="owl-item" style="width: 380px;"><div class="item">
-            <div class="card p-5 p-lg-8 bg-primary-soft border-0">
-              <div>
-                <img alt="Image" src="{{asset('frontend/images/thumbnail/03.jpg')}}" class="shadow-primary img-fluid rounded-circle d-inline">
-              </div>
-              <div class="card-body p-0 mt-5">
-                <p class="text-muted">Ekocart Amazing E-commerce Template, clean code, Crative &amp; Modern design.</p>
-                <div>
-                  <h5 class="text-primary d-inline mb-0">Amber Holmes</h5>
-                  <small class="text-muted font-italic">- Manager</small>
-                </div>
-              </div>
-            </div>
-          </div></div><div class="owl-item" style="width: 380px;"><div class="item">
-            <div class="card p-5 p-lg-8 bg-primary-soft border-0">
-              <div>
-                <img alt="Image" src="{{asset('frontend/images/thumbnail/02.jpg')}}" class="shadow-primary img-fluid rounded-circle d-inline">
-              </div>
-              <div class="card-body p-0 mt-5">
-                <p class="text-muted">Ekocart Amazing E-commerce Template, clean code, Crative &amp; Modern design.</p>
-                <div>
-                  <h5 class="text-primary d-inline mb-0">Scott Jones</h5>
-                  <small class="text-muted font-italic">- Ceo</small>
-                </div>
-              </div>
-            </div>
-          </div></div><div class="owl-item cloned" style="width: 380px;"><div class="item">
-            <div class="card p-5 p-lg-8 bg-primary-soft border-0">
-              <div>
-                <img alt="Image" src="{{asset('frontend/images/thumbnail/01.jpg')}}" class="shadow-primary img-fluid rounded-circle d-inline">
-              </div>
-              <div class="card-body p-0 mt-5">
-                <p class="text-muted">Ekocart Amazing E-commerce Template, clean code, Crative &amp; Modern design.</p>
-                <div>
-                  <h5 class="text-primary d-inline mb-0">Ember Lana</h5>
-                  <small class="text-muted font-italic">- Founder</small>
-                </div>
-              </div>
-            </div>
-          </div></div><div class="owl-item cloned" style="width: 380px;"><div class="item">
-            <div class="card p-5 p-lg-8 bg-primary-soft border-0">
-              <div>
-                <img alt="Image" src="{{asset('frontend/images/thumbnail/02.jpg')}}" class="shadow-primary img-fluid rounded-circle d-inline">
-              </div>
-              <div class="card-body p-0 mt-5">
-                <p class="text-muted">Ekocart Amazing E-commerce Template, clean code, Crative &amp; Modern design.</p>
-                <div>
-                  <h5 class="text-primary d-inline mb-0">Scott Jones</h5>
-                  <small class="text-muted font-italic">- Supervisor</small>
-                </div>
-              </div>
-            </div>
-          </div></div><div class="owl-item cloned" style="width: 380px;"><div class="item">
-            <div class="card p-5 p-lg-8 bg-primary-soft border-0">
-              <div>
-                <img alt="Image" src="{{asset('frontend/images/thumbnail/02.jpg')}}" class="shadow-primary img-fluid rounded-circle d-inline">
-              </div>
-              <div class="card-body p-0 mt-5">
-                <p class="text-muted">Ekocart Amazing E-commerce Template, clean code, Crative &amp; Modern design.</p>
-                <div>
-                  <h5 class="text-primary d-inline mb-0">Amber Holmes</h5>
-                  <small class="text-muted font-italic">- Manager</small>
-                </div>
-              </div>
-            </div>
-          </div></div></div></div><div class="owl-nav"><button type="button" role="presentation" class="owl-prev"><span class="la la-angle-left"><span></span></span></button><button type="button" role="presentation" class="owl-next"><span class="la la-angle-right"></span></button></div><div class="owl-dots disabled"></div></div>
-      </div>
+        </div>
     </div>
-  </div>
+</section>
+
+
+<section>
+    <div class="container">
+        <div class="row justify-content-center text-center mb-5">
+            <div class="col-12 col-md-10 col-lg-8">
+                <div>
+                    <!-- <h6 class="text-primary mb-1">
+                  — Testimonial
+              </h6> -->
+                    <h2 class="mb-0">Our Features</h2>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                <!-- Blog Card -->
+                <div class="card border-0 bg-transparent">
+
+                    <div class="owl-carousel no-pb" data-dots="false" data-items="2" data-margin="30"
+                        data-autoplay="true">
+                        <div class="item">
+                            <div class="card border-0 bg-transparent">
+                                <div class="position-relative rounded overflow-hidden">
+                                    <!-- <div
+                                        class="position-absolute z-index-1 bottom-0 bg-white text-primary shadow-primary text-center py-1 px-2 rounded ml-3 mb-3">
+                                        15 Mar</div> -->
+                                    <img class="card-img-top hover-zoom" src="{{asset('frontend/images/blog/01.jpg')}}"
+                                        alt="Image">
+                                </div>
+                                <!-- <div class="card-body px-0 pb-0">
+                                    <div> <a class="d-inline-block link-title btn-link text-small mr-2"
+                                            href="#">Cloth,</a>
+                                        <a class="d-inline-block link-title btn-link text-small" href="#">Fashion</a>
+                                    </div>
+                                    <h2 class="h5 font-w-6 mt-3">
+                                        <a class="link-title" href="blog-single.html">When it’s Winter outdoors gifts
+                                            but you feel like ekocart</a>
+                                    </h2>
+                                </div> -->
+                                <div></div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="card border-0 bg-transparent">
+                                <div class="position-relative rounded overflow-hidden">
+                                    <!-- <div
+                                        class="position-absolute z-index-1 bottom-0 bg-white text-primary shadow-primary text-center py-1 px-2 rounded ml-3 mb-3">
+                                        13 Apr</div> -->
+                                    <img class="card-img-top hover-zoom" src="{{asset('frontend/images/blog/02.jpg')}}"
+                                        alt="Image">
+                                </div>
+                                <!-- <div class="card-body px-0 pb-0">
+                                    <div> <a class="d-inline-block link-title btn-link text-small mr-2"
+                                            href="#">Cloth,</a>
+                                        <a class="d-inline-block link-title btn-link text-small" href="#">Fashion</a>
+                                    </div>
+                                    <h2 class="h5 font-w-6 mt-3">
+                                        <a class="link-title" href="blog-single.html">Whatever the will make it special
+                                            For You Every</a>
+                                    </h2>
+                                </div> -->
+                                <div></div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="card border-0 bg-transparent">
+                                <div class="position-relative rounded overflow-hidden">
+                                    <!-- <div
+                                        class="position-absolute z-index-1 bottom-0 bg-white text-primary shadow-primary text-center py-1 px-2 rounded ml-3 mb-3">
+                                        20 Apr</div> -->
+                                    <img class="card-img-top hover-zoom" src="{{asset('frontend/images/blog/06.jpg')}}"
+                                        alt="Image">
+                                </div>
+                                <!-- <div class="card-body px-0 pb-0">
+                                    <div> <a class="d-inline-block link-title btn-link text-small mr-2"
+                                            href="#">Cloth,</a>
+                                        <a class="d-inline-block link-title btn-link text-small" href="#">Fashion</a>
+                                    </div>
+                                    <h2 class="h5 font-w-6 mt-2 mb-0">
+                                        <a class="link-title" href="blog-single.html">Spring summer fashion trends new
+                                            high collection</a>
+                                    </h2>
+                                </div> -->
+                                <div></div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="card border-0 bg-transparent">
+                                <div class="position-relative rounded overflow-hidden">
+                                    <!-- <div
+                                        class="position-absolute z-index-1 bottom-0 bg-white text-primary shadow-primary text-center py-1 px-2 rounded ml-3 mb-3">
+                                        20 Apr</div> -->
+                                    <img class="card-img-top hover-zoom" src="{{asset('frontend/images/blog/10.jpg')}}"
+                                        alt="Image" style="height:300px">
+                                </div>
+                                <!-- <div class="card-body px-0 pb-0">
+                                    <div> <a class="d-inline-block link-title btn-link text-small mr-2"
+                                            href="#">Cloth,</a>
+                                        <a class="d-inline-block link-title btn-link text-small" href="#">Fashion</a>
+                                    </div>
+                                    <h2 class="h5 font-w-6 mt-2 mb-0">
+                                        <a class="link-title" href="blog-single.html">Spring summer fashion trends new
+                                            high collection</a>
+                                    </h2>
+                                </div> -->
+                                <div></div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="card border-0 bg-transparent">
+                                <div class="position-relative rounded overflow-hidden">
+                                    <!-- <div
+                                        class="position-absolute z-index-1 bottom-0 bg-white text-primary shadow-primary text-center py-1 px-2 rounded ml-3 mb-3">
+                                        20 Apr</div> -->
+                                    <img class="card-img-top hover-zoom" src="{{asset('frontend/images/blog/08.jpg')}}"
+                                        alt="Image">
+                                </div>
+                                <!-- <div class="card-body px-0 pb-0">
+                                    <div> <a class="d-inline-block link-title btn-link text-small mr-2"
+                                            href="#">Cloth,</a>
+                                        <a class="d-inline-block link-title btn-link text-small" href="#">Fashion</a>
+                                    </div>
+                                    <h2 class="h5 font-w-6 mt-2 mb-0">
+                                        <a class="link-title" href="blog-single.html">Spring summer fashion trends new
+                                            high collection</a>
+                                    </h2>
+                                </div> -->
+                                <div></div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div></div>
+                </div>
+                <!-- End Blog Card -->
+            </div>
+        </div>
+    </div>
 </section>
 
 <!-- 

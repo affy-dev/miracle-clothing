@@ -14,12 +14,12 @@
     <title>Miracle Clothing</title>
 
     <!-- Favicon Icon -->
-    <link rel="shortcut icon" href="{{secure_asset('frontend/images/favicon.ico')}}" />
+    <link rel="shortcut icon" href="{{asset('frontend/images/favicon.ico')}}" />
 
     <!-- inject css start -->
 
-    <link href="{{secure_asset('frontend/css/theme-plugin.css')}}" rel="stylesheet" />
-    <link href="{{secure_asset('frontend/css/theme.min.css')}}" rel="stylesheet" />
+    <link href="{{asset('frontend/css/theme-plugin.css')}}" rel="stylesheet" />
+    <link href="{{asset('frontend/css/theme.min.css')}}" rel="stylesheet" />
 
     <!-- inject css end -->
 
@@ -35,7 +35,7 @@
 
         <div id="ht-preloader">
             <div class="loader clear-loader">
-                <img class="img-fluid" src="{{secure_asset('frontend/images/loader.gif')}}" alt="">
+                <img class="img-fluid" src="{{asset('frontend/images/loader.gif')}}" alt="">
             </div>
         </div>
 
@@ -68,8 +68,8 @@
 
     <!-- inject js start -->
 
-    <script src="{{secure_asset('frontend/js/theme-plugin.js')}}"></script>
-    <script src="{{secure_asset('frontend/js/theme-script.js')}}"></script>
+    <script src="{{asset('frontend/js/theme-plugin.js')}}"></script>
+    <script src="{{asset('frontend/js/theme-script.js')}}"></script>
 
     <!-- inject js end -->
 
